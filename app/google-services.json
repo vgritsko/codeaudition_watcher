@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "924290244627",
+    "firebase_url": "https://codeaudition-default-rtdb.firebaseio.com",
+    "project_id": "codeaudition",
+    "storage_bucket": "codeaudition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924290244627:android:e4d747f0f854e240ea5fe6",
+        "android_client_info": {
+          "package_name": "com.codeaudion.sender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924290244627-boab6mgamtdreojho64dbd91mmu1dmj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBko579XMqxQdmGFOAnWOdTvIF8lJ2Q8Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924290244627-boab6mgamtdreojho64dbd91mmu1dmj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924290244627:android:5e3c6aa99beda944ea5fe6",
+        "android_client_info": {
+          "package_name": "com.codeaudition.sender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924290244627-boab6mgamtdreojho64dbd91mmu1dmj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBko579XMqxQdmGFOAnWOdTvIF8lJ2Q8Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924290244627-boab6mgamtdreojho64dbd91mmu1dmj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924290244627:android:b887eb23a6a85bd4ea5fe6",
+        "android_client_info": {
+          "package_name": "com.codeaudition.watcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924290244627-boab6mgamtdreojho64dbd91mmu1dmj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBko579XMqxQdmGFOAnWOdTvIF8lJ2Q8Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924290244627-boab6mgamtdreojho64dbd91mmu1dmj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
